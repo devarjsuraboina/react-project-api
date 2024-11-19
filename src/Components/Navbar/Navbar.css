@@ -1,0 +1,75 @@
+nav {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    position: fixed;
+    width: 100%;
+    z-index: 99999999;
+    background-color: bisque;
+}
+
+
+.nav-head {
+    font-size: 40px;
+    color: rgba(50, 50, 50, 1);
+
+}
+
+.links{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.aa {
+    font-size: 20px;
+    color: rgba(50, 50, 50, 1);
+    ;
+}
+
+.aa:hover {
+    border: 1px solid;
+
+}
+
+.humBurger {
+    display: none;
+}
+
+.nav-button {
+    height: 30px;
+    width: 120px;
+    border-radius: 8px;
+    border: none;
+
+
+}
+
+@media(max-width:768px) {
+    .humBurger {
+        display: flex;
+    }
+
+    .links {
+        width: 40%;
+        position: absolute;
+        height: 50vh;
+        top: 10vh;
+        right: -100%;
+        flex-direction: column;
+        gap: 30px;
+        transition: all 0.5s ease-in;
+        background-color: rgb(26, 17, 18);
+        
+    }
+    .aa{
+        color: aliceblue;
+    }
+
+    .active {
+        right: 0;
+    }
+}

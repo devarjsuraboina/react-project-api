@@ -1,0 +1,334 @@
+{
+"products" :[
+    {
+      "id":1,
+      "name": "Basic T-Shirt",
+      "category": "Men",
+      "price": 1667.17,
+      "imageUrl": "https://4.imimg.com/data4/AA/HC/MY-26596027/men-s-fancy-t-shirt.jpg",
+      "description": "A soft  for men."
+    },
+    {
+      "id":2,
+      "name": "Slim Fit Jeans",
+      "category": "Women",
+      "price": 3326.17,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQF8xAj3NysylySK2-6HL051Hot70nURbZlJWPgq7dA3djgAYuO-NeTzu7mg_CwbCAQs9wfix9GxjESkdBgtJshhuRsNsgnpuak0EWDMUDr",
+      "description": "Trendy  wear."
+    },
+    {
+      "id":3,
+
+      "name": "Hoodie",
+      "category": "Children",
+      "price": 2499.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxoiYpX9gJj7WpKYnU5NGlhAC0FhtBk-N6SWO_EB4M06oZ1abd5lDtrJOvId_21PM6rIEPfP8azCCUKlRScXTHQY8LeD1tzPTx_QxRgVr-Df84VukUssu6Yw",
+      "description": "Cozy  or casual wear."
+    },
+    {
+      "id":4,
+      "name": "Leather Jacket",
+      "category": "Men",
+      "price": 12416.17,
+      "imageUrl": "https://images.meesho.com/images/products/437267272/pyfvt_1200.jpg",
+      "description": "A pcolder months."
+    },
+    {
+      "id":5,
+
+      "name": "Sports Bra",
+      "category": "Women",
+      "price": 2071.17,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJg2ihIBdzY7YW0lUz0S7_tC34RqYdjcDvQALsrztSLuSnCuiTCnAj9on4DNbRu75gJ1iB5i9aQe-heomhuzL90pVlQ_ICv-9PZ0SDjaNqTRm8MIj8Z4o2wA",
+      "description": "Comfortab for workouts."
+    },
+    {
+      "id":6,
+      "name": "Sneakers",
+      "category": "Children",
+      "price": 4149.17,
+      "imageUrl": "https://images.meesho.com/images/products/382917863/jia4a_1200.jpg",
+      "description": "Durable running and play."
+    },
+    {
+      "id":7,
+      "name": "Running Shoes",
+      "category": "Men",
+      "price": 5811.17,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4zdRa9IcZfM_Jg_u-dzGz8Gj6Z5XDoFQU4UznKVD_sSD65cw3ugOFyCkgShQJCVdzQddAF9W0JGU0x04FefSo6_JfD4Q22l0ebQI91ZY",
+      "description": "Lightwand performance."
+    },
+    {
+      "id":8,
+      "name": "Leather Handbag",
+      "category": "Women",
+      "price": 7471.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPQRKnDw21FKKzpDHxhYFEErmsAGiSEe-fz7vMuVlaoA6h3Q3S4fE2QxaisM4u9nBnYo6FlwVrLOFUxsYw0DBNfreaJZT0vFTlkmIvRrBp",
+      "description": "Premium leather occasions."
+    },
+    {
+      "id":9,
+      "name": "T-shirt",
+      "category": "Children",
+      "price": 1249.17,
+      "imageUrl": "https://images.meesho.com/images/products/362442871/zsilg_1200.jpg",
+      "description": "Soft everyday play."
+    },
+    {
+      "id":10,
+      "name": "Sweatpants",
+      "category": "Men",
+      "price": 2911.17,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTnaOJ_muzbO7eINRfAMinPIv9cbTUn01smU9UBoG3CDnlVduTN4Gssa6ZZFhOFNs1g4tM3v4aHOLpdULvsEjzlx2oqySo1o6lQsFMwS-IGES6X_RI8yTWbjQ",
+      "description": "Comfortable  outings."
+    },
+    {
+      "id":11,
+      "name": "Graphic T-Shirt",
+      "category": "Women",
+      "price": 1749.17,
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIyk2E9I0OIUCC30sS6gTeji2Io1mAZXvErrn7FyGbtzLgPtWvurZHzBw1QuC2xvgpyqjkP0PsI78eL6yDhCGhmwMGcA54o0gWiQDbVH5Y",
+      "description": "A trendy outings."
+    },
+    {
+      "id":12,
+      "name": "Jacket",
+      "category": "Children",
+      "price": 2999.17,
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGKd-oN0SXFYVbg6IBe1hnH-uS4BEh2XChFe0OsUYFBERRWcvTPlkV4tRiZnu0e9LLZwpBXvdIAiqOBTBvrcy_fO7exXtl_05KcucxV7Y",
+      "description": "A warm and weather."
+    },
+    {
+      "id":13,
+      "name": "Windbreaker",
+      "category": "Men",
+      "price": 3999.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShR-nAch513iuF1Y3R1TFRodU4LkJ1Ddcr0NhvNNYUSzr47LPfwc21scXoXUTBcZYWTwMOZqwYiQyJDxzkMp4TNy-yQrQZA5nFJ86gMMc5",
+      "description": "A light for men."
+    },
+    {
+      "id":14,
+      "name": "Boots",
+      "category": "Women",
+      "price": 4999.17,
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTV1Uk5oFSSVcyfTAp7WYlT1r0bIKyuCyWd7t7Nc7V2u9iyGZ9y0tfb1Co9vgCThO7okTLP4Rc8sKbY5p3WN7LI-zC8Wst5wd2_rjIhSJix4AKngKPxyc2R",
+      "description": "Stylish season."
+    },
+    {
+      "id":15,
+      "name": "Sweatshirt",
+      "category": "Children",
+      "price": 2299.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxoiYpX9gJj7WpKYnU5NGlhAC0FhtBk-N6SWO_EB4M06oZ1abd5lDtrJOvId_21PM6rIEPfP8azCCUKlRScXTHQY8LeD1tzPTx_QxRgVr-Df84VukUssu6Yw",
+      "description": "A weather."
+    },
+    {
+      "id":16,
+      "name": "Joggers",
+      "category": "Men",
+      "price": 2199.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRoFWRSflML_Fj6k9pFco_ucIq5IZFXxrhA-nuTbg6z2WZflb5WF1SsnyAFug5qcW4ywkhP0fDGIeXj4vK4mdplqxIdAjldJf_CvIC9_6b7_FLkFXToaOkvRQ",
+      "description": "Comfortabl wear."
+    },
+    {
+      "id":17,
+      "name": "Blouse",
+      "category": "Women",
+      "price": 2999.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmB10Yez7wActMjs0ovHXv3201gNVG0aTs60vSjTxCkoHOqHuahQHgwbl7vxJtVZn86Vg_so9w2zDkQGYvqqV-ca-w7tkBzjKNjuNIAMf2MgCa_PdI8TNS",
+      "description": "A occasions."
+    },
+    {
+      "id":18,
+      "name": "Track Pants",
+      "category": "Children",
+      "price": 1999.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCpKssehxKiKnJv82OktXSJzc3RGa3vXrzCYSQOqfHJGGtVligHDz7xy72EA35b-yIxxamOlOVRluK34fdGKUz5UTcMyZ1qhsKyopFYVCbCWtvjnf3nTd-CQ",
+      "description": "Comfor sports."
+    },
+    {
+      "id":19,
+      "name": "Hooded Jacket",
+      "category": "Men",
+      "price": 3499.17,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf4P6r0WqDc6IxeSbNRZ8hbyByJFklCqzKTIoXYAtQaRFgYqhnwfMd-TW6CplwHq6lPDIH00fI1XEkghyrNowyRD_cnXhxXv1p93WC7oM",
+      "description": "A weather."
+    },
+    {
+      "id":20,
+      "name": "Floral Dress",
+      "category": "Women",
+      "price": 3999.17,
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6I83hIxZjxFQSokbmOpqE0EP2YSVluHLRt-M5sTSCQSlBrPd_Y8RuN7xErRN0FGAdfHrsYXICE5TSnRRw5NrH4VP6UEb5WPCnZkb3L4pOtREqYB1MmR3OSw",
+      "description": "A  occasions."
+    },
+    {
+      "id":21,
+      "name": "Raincoat",
+      "category": "Children",
+      "price": 2499.17,
+      "imageUrl": "https://images.meesho.com/images/products/405472678/ad6hy_1200.jpg",
+      "description": "A days."
+    },
+    {
+      "id":22,
+      "name": "Cardigan",
+      "category": "Men",
+      "price": 2899.17,
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5YkZbvY5u2XW9Gx9Ubl10buCxWF8ztBV-ylyu3XFWdBEQXXuyON11psO3QEjU6v0LG5x9cXejE_j4eHX-hCLykeDNNafebkXQQzpj4pfmY9hVlwJDqeI1",
+      "description": "A cozy weather."
+    },
+    {
+      "id":23,
+      "name": "Pumps",
+      "category": "Women",
+      "price": 3199.17,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSk3O6wysQLoInr0vLZRajxeBBf10odT6MG3f6dAEgZA1KKv3aT3dXL49WRIF1HrksTm496Esob1eMpCHUNQCCHio0yUEJ-b-udiSGKD3BJhV_xN0TDagrf4A",
+      "description": "Elegan occasions."
+    },
+    {
+      "id":24,
+      "name": "Boys T-shirt",
+      "category": "Children",
+      "price": 1499.17,
+      "imageUrl": "https://images.meesho.com/images/products/381462938/dyjnf_1200.jpg",
+      "description": "Comforta wear."
+    },
+    {
+      "id":25,
+      "name": "V-neck T-shirt",
+      "category": "Men",
+      "price": 1799.17,
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvu4R1SGLWqhJKZ4Fi8zsj_FYSvwQUsF-5aZV2R_6JqjA98Ce-eGS8qJ33UCPflOv_4Z2bxfdfzmzzlGP4S-RZSGom3H_SBUFky46nCEI",
+      "description": "A stylish wear."
+    },
+    {
+      "id":26,
+      "name": "Skirt",
+      "category": "Women",
+      "price": 2499.17,
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR70n62hJ4xKjfY3GWaPmE_E-rMWtq5vUMB_QaflTH_RkQ3KMgrtea5PCj9IXikzvNrzSpzVUKHvCGuD2uGgurPolBD_9v5PixsAOoWCVPZrthsDJdRXEP70A",
+      "description": "A chic  days."
+    },
+    {
+      "id":27,
+      "name": "Boys Sneakers",
+      "category": "Children",
+      "price": 3299.17,
+      "imageUrl": "https://images.meesho.com/images/products/329132594/e2gog_1200.jpg",
+      "description": "Stylish playing."
+    },
+    {
+      "id":28,
+      "name": "Jogging Shorts",
+      "category": "Men",
+      "price": 1699.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTK1Ptmj2AT_hKm2U_Kc3kDQZsKWG-5mxxclpM_HaaqDTH94hcXwPFL9f3-aeu7nXNC2VYO1QbTGFgQTAnnN2wY0MfrEQuVXChbIPIbMyLMupQZfRjZbb_QUQ",
+      "description": "Lightwei jogging."
+    },
+    {
+      "id":29,
+      "name": "Dress",
+      "category": "Women",
+      "price": 3999.17,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGY46v6l1bjIJTH1SJQttThY_9jCLB7ckeEgpKaWzTFNIl-tQEAamuJ-_nGmUkKOuawrJFznkGnO36pnnQ9B9wfSiglw1Fa-G5tSHqLWiNQNkUPLUy48EITQ",
+      "description": "A stylish events."
+    },
+    {
+      "id":30,
+      "name": "Boys Jacket",
+      "category": "Children",
+      "price": 3599.17,
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGKd-oN0SXFYVbg6IBe1hnH-uS4BEh2XChFe0OsUYFBERRWcvTPlkV4tRiZnu0e9LLZwpBXvdIAiqOBTBvrcy_fO7exXtl_05KcucxV7Y",
+      "description": "A durable winter."
+    }
+
+   
+  ],
+  
+  "trends":[
+    {
+      "id":31,
+        "name": "Kurti Full Sleev",
+        "category": "trends",
+        "price": 3599.17,
+        "imageUrl":"https://images.jdmagicbox.com/quickquotes/images_main/full-sleeve-women-kurti-2215398539-fp2n4iqc.jpg",
+        "description": "A durwinter."
+      },
+      {
+        "id":32,
+        "name": "Silk Saree -  Printied",
+        "category": "trends",
+        "price": 3499.17,
+        "imageUrl":"https://5.imimg.com/data5/SELLER/Default/2023/12/372146101/CC/NI/OD/4389883/a-055a1096-copy-500x500.jpg",
+        "description": "A durable  winter."
+      },
+      {
+        "id":33,
+        "name": "Multi purposeJacket",
+        "category": "trends",
+        "price": 5598.17,
+        "imageUrl":"https://image.made-in-china.com/2f0j00AwqWSFdPQLuY/Top-Quality-OEM-Men-s-Hooded-Multi-Pocket-Functional-Work-Clothes-Fashion-Street-Loose-Outdoor-Waterproof-Jacket-Jackets-Coat-Outercoat-Overcoat-Windbreaker.webp",
+        "description": "A durable  winter."
+      },
+      {
+        "id":34,
+        "name": "Jacket",
+        "category": "trends",
+        "price": 4599.17,
+        "imageUrl":"https://m.media-amazon.com/images/I/71VFs2XrDVL._AC_UY350_.jpg",
+        "description": "A cards-container"
+      }
+  ],
+
+  "cards":[
+    {
+        "id":35,
+        "heading":"Collection for Girls",
+        "description":"Up to 40% off",
+        "button":"Shopnow",
+        "image":"https://png.pngtree.com/png-vector/20240112/ourlarge/pngtree-indian-girl-with-shopping-bag-png-image_11436102.png"
+
+    },
+    {
+        "id":36,
+        "heading":"Collection for Boys",
+        "description":"Up to 40% off",
+        "button":"Shopnow",
+        "image":"https://img.freepik.com/premium-photo/man-white-background-with-shoppers-point-side_709984-22135.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":37,
+        "heading":"Collection for Youth",
+        "description":"Up to 40% off",
+        "button":"Shopnow",
+        "image":"https://www.freeiconspng.com/thumbs/youth-png/youth-png-24.jpg"
+    },
+    {
+        "id":38,
+        "heading":"Collection for Kids",
+        "description":"Up to 40% off",
+        "button":"Shopnow",
+        "image":"https://static9.depositphotos.com/1594308/1158/i/450/depositphotos_11582705-stock-photo-brothers-with-bags.jpg"
+    }
+  ],
+  
+  "logos":[
+    {
+        "logo":"https://static.vecteezy.com/system/resources/thumbnails/020/336/375/small/nike-logo-nike-icon-free-free-vector.jpg"
+    },
+    {
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_D606s7EQGJZ_pgKA1gB3ZlTBm_h8OWgumMi6jXPtbMTp2dlfacJ3U5pFBTK4hUGxE5s&usqp=CAU"
+    },
+    {
+        "logo":"https://w0.peakpx.com/wallpaper/518/856/HD-wallpaper-levis-logo-brand.jpg"
+    },
+    {
+        "logo":"https://i.pinimg.com/originals/c9/02/4b/c9024bfa05b9b452ae28ac916cd3a267.png"
+    },
+    {
+        "logo":"https://1000logos.net/wp-content/uploads/2017/05/PUMA-Logo-1978.jpg"
+    }
+
+  ]
+}
