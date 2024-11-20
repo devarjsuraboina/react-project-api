@@ -138,7 +138,7 @@
 
 }
 
-@media(max-width:768px) {
+@media(max-width:900px) {
     .home-cards-section {
         height: auto;
     }
@@ -179,6 +179,24 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 
+}
+.check-boxes{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding:10px;
+}
+
+.filter-boxes{
+    display: flex;
+    gap: 15px;
+}
+.price-boxes{
+    display: flex;
+    gap: 15px;
 }
 
 .products-card img {

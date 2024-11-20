@@ -10,10 +10,10 @@ export const Data = createContext()
 
 function App() {
 
-  const url = "http://localhost:3000/products";
-  const cardsUrl = "http://localhost:3000/cards"
-  const logoUrl = "http://localhost:3000/logos";
-  const trendUrl="http://localhost:3000/trends"
+  const url = "https://dummyserver-x386.onrender.com/products";
+  const cardsUrl = "https://dummyserver-x386.onrender.com/cards"
+  const logoUrl = "https://dummyserver-x386.onrender.com/logos";
+  const trendUrl="https://dummyserver-x386.onrender.com/trends"
 
 
 
