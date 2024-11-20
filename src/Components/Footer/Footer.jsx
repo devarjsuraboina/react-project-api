@@ -1,5 +1,5 @@
 import React from 'react'
-import imge3 from "../../assets/icon_Customer_bytes 1.png"
+import imge3 from "../../assets/icon.png"
 import { useState } from 'react'
 
 

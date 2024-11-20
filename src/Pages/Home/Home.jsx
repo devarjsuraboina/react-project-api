@@ -1,8 +1,8 @@
 import React, { useContext, useState } from 'react'
 import Navbar from '../../Components/Navbar/Navbar'
-import img from "../../assets/premium_photo-1661351404790-dd90f03228eb.jpeg"
-import image from "../../assets/506c2633e07c48c2f9bec072a0cec2eb.png"
-import image2 from "../../assets/image 24.png"
+import image from './Assets/premium.jpeg'
+import image2 from './Assets/image.png'
+import image3 from './Assets/image24.png'
 import { Data } from "../../App"
 import "./Home.css"
 import Footer from "../../Components/Footer/Footer"
@@ -28,12 +28,12 @@ const Home = () => {
                     <button>shop now</button>
                 </div>
                 <div>
-                    <img className='hero-image' src={img} alt="" />
+                    <img className='hero-image' src={image} alt="" />
                 </div>
             </section>
 
             <section className='image-section'>
-                <img className='image-section-image' src={image} alt="" />
+                <img className='image-section-image' src={image2} alt="" />
             </section>
 
             <section className='home-cards-section'>
@@ -117,7 +117,7 @@ const Home = () => {
                     <p>This is what our customers have to say </p>
                 </div>
                 <div className='review-card'>
-                    <div><img className='image2' src={image2} alt="" /></div>
+                    <div><img className='image2' src={image3} alt="" /></div>
                     <div className='review-content'>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum</p>
                         <h5>Sameer Jain</h5>
